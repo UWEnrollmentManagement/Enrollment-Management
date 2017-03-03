@@ -1,0 +1,8 @@
+{
+  "name": "uwdoem/enrollment_management",
+  "description": "University of Washington `Boundless` themes for the Framework web framework.",
+  "require": {
+    "athens/core": "0.*",
+    "uwdoem/boundless": "0.*"
+  }
+}
